@@ -2,8 +2,10 @@
 **NoteApi Sample Application**
 
 Setup
+
 1.clone the repository
 $ git clone https://github.com/Nushrafawmy/-NoteApi.git
+
 $ cd noteApi
 
 2.Create a virtual environment to install dependencies in and activate it:
